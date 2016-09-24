@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hackSchedule</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_plus">+</string>
+    <string name="button_helpStudy">Study plan</string>
+    <string name="button_addEvent">Add event</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="message1">Pick an option:</string>
+</resources>
